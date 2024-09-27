@@ -10,4 +10,4 @@
 <img src="images/payload-1.png" alt="Payload Dynamics" width="400"/>
 
 <h3>Links Orientation</h3>
-<img src="images/Link orientation-1.png" alt="Link orientation" width="400"/>
+<img src="images/link orientation-1.png" alt="Link orientation" width="400"/>
