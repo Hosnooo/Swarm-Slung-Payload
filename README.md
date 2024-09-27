@@ -19,7 +19,7 @@
     </div>
     <div style="text-align: center;">
         <h4>Link Orientation</h4>
-        <img src="images/link_orientation-1.png" alt="Link orientation" width="400"/>
+        <img src="images/link orientation-1.png" alt="Link orientation" width="400"/>
     </div>
 </div>
 
