@@ -26,10 +26,10 @@
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <div style="text-align: center;">
         <h4>Quadrotors Position</h4>
-        <img src="images/quads_pos-1.png" alt="Quadrotors Position" width="400"/>
+        <img src="images/quad_pos-1.png" alt="Quadrotors Position" width="400"/>
     </div>
     <div style="text-align: center;">
         <h4>Quadrotors Velocity</h4>
-        <img src="images/quads_vel-1.png" alt="Quadrotors Velocity" width="400"/>
+        <img src="images/quad_vel-1.png" alt="Quadrotors Velocity" width="400"/>
     </div>
 </div>
