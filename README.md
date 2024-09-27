@@ -1,6 +1,5 @@
 # Swarm-Slung-Payload
 
-<h3>Quadrotor Optimal Configuration 2-D & 3-D</h3>
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
         <h4>Quadrotor Optimal Configuration 2-D</h4>
