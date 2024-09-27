@@ -1,7 +1,7 @@
 clc; clear; close all;
 %% Manual Configuration of System Parameters
 pyld = payload();
-for n = 3:3
+for n = 1:15
     
     %% Default Configuration of System Parameters 
     syst = QuadPayLoadSystem(n);
@@ -55,9 +55,9 @@ for n = 3:3
         'location', 'best','Interpreter','latex', 'Fontsize', 12)
     end
 
-    % saveas(f,['figure' num2str(n) '.png'])
-    % close all;
+    saveas(f,['figure' num2str(n) '.svg'])
+    close all;
 end
-states_struct = utilities.states_vec_to_struct(output.x, output.y,syst.params);
-save('states.mat','states_struct')
+% states_struct = utilities.states_vec_to_struct(output.x, output.y,syst.params);
+% save('states.mat','states_struct')
 
